@@ -1,0 +1,4 @@
+state=>
+        --->state is nothing but object for storing the component data.
+        --->it is mutable and change it inside the component.
+        --->it is automatically re-renders when the state is changed ui will automatically load.
